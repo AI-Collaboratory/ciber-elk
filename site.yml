@@ -1,0 +1,13 @@
+- hosts: elasticsearch
+  become: yes
+  roles:
+    - java
+    - elastic-apt
+    - elasticsearch
+
+- hosts: logstash_hosts
+  become: yes
+  roles:
+    - java
+    - elastic-apt
+    - logstash

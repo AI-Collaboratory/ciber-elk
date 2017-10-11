@@ -1,0 +1,9 @@
+output {
+  elasticsearch {
+    hosts => [ {% for item in groups['elasticsearch'] %}"{{ hostvars[item]['ansible_' ~ hostvars[item]['elasticsearch_interface']]['ipv4']['address'] }}:9200",{% endfor %} ]
+    sniffing => true
+    manage_template => false
+    index => "%{[@metadata][beat]}-%{+YYYY.MM.dd}"
+    document_type => "%{[@metadata][type]}"
+  }
+}

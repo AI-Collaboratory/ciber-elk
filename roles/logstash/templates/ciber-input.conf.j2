@@ -1,0 +1,29 @@
+input {
+  file {
+    path => "/tmp/inventory.txt"
+    start_position => "beginning"
+    sincedb_path => "/dev/null"
+  }
+}
+filter {
+  csv {
+    separator => ","
+    # NAME, FOLDER, DEPTH, SIZE
+    columns => ["name","folder","depth","size"]
+  }
+}
+filter {
+  ruby {
+    add_field => { "fullpath" => "%{somefield}/%{somefield}" }
+    code => "extension = event.get('name').split('.').last
+             event.set('extension', extension)
+             event.set('random', rand)"
+  }
+}
+output {
+  elasticsearch {
+    hosts => [ {% for item in groups['elasticsearch'] %}"{{ hostvars[item]['ansible_' ~ hostvars[item]['elasticsearch_interface']]['ipv4']['address'] }}:9200",{% endfor %} ]
+    index => "ciber-inventory"
+  }
+  stdout {}
+}
