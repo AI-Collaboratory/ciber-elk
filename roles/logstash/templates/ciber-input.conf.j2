@@ -3,25 +3,33 @@ input {
     path => "/tmp/inventory.txt"
     start_position => "beginning"
     sincedb_path => "/dev/null"
+    type => "file"
   }
 }
 filter {
   csv {
-    separator => ","
+    separator => "TAB"  # TODO: make this an actual tab character!
     # NAME, FOLDER, DEPTH, SIZE
-    columns => ["name","folder","depth","size"]
+    columns => ["filename","folder","depth","size"]
+  }
+}
+filter {
+  mutate {
+    convert => {"depth" => "integer"}
+    convert => {"size" => "integer"}
   }
 }
 filter {
   ruby {
-    add_field => { "fullpath" => "%{somefield}/%{somefield}" }
-    code => "extension = event.get('name').split('.').last
+    add_field => { "fullpath" => "%{folder}/%{filename}" }
+    code => "extension = event.get('filename').split('.').last.upcase
              event.set('extension', extension)
              event.set('random', rand)"
   }
 }
 output {
   elasticsearch {
+    # TODO: Delete the final comma!
     hosts => [ {% for item in groups['elasticsearch'] %}"{{ hostvars[item]['ansible_' ~ hostvars[item]['elasticsearch_interface']]['ipv4']['address'] }}:9200",{% endfor %} ]
     index => "ciber-inventory"
   }

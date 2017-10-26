@@ -1,0 +1,1716 @@
+{
+    "took": 39,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": 500,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "Z",
+                "_score": null,
+                "_source": {
+                    "doc_count": 25734268,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "Z"
+                },
+                "sort": [
+                    0,
+                    25734268
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "GZ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 1427072,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-tar",
+                    "key": "GZ"
+                },
+                "sort": [
+                    0,
+                    1427072
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "KML",
+                "_score": null,
+                "_source": {
+                    "doc_count": 1426017,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/vnd.google-earth.kml+xml",
+                    "key": "KML"
+                },
+                "sort": [
+                    0,
+                    1426017
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "HDF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 780643,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-hdf",
+                    "key": "HDF"
+                },
+                "sort": [
+                    0,
+                    780643
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DAT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 578182,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DAT"
+                },
+                "sort": [
+                    0,
+                    578182
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DBF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 432802,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DBF"
+                },
+                "sort": [
+                    0,
+                    432802
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SHP",
+                "_score": null,
+                "_source": {
+                    "doc_count": 334800,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-qgis",
+                    "key": "SHP"
+                },
+                "sort": [
+                    0,
+                    334800
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SHX",
+                "_score": null,
+                "_source": {
+                    "doc_count": 334795,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-qgis",
+                    "key": "SHX"
+                },
+                "sort": [
+                    0,
+                    334795
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "PRJ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 331749,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "PRJ"
+                },
+                "sort": [
+                    0,
+                    331749
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "CORR01",
+                "_score": null,
+                "_source": {
+                    "doc_count": 235254,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "CORR01"
+                },
+                "sort": [
+                    0,
+                    235254
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SAS",
+                "_score": null,
+                "_source": {
+                    "doc_count": 165215,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SAS"
+                },
+                "sort": [
+                    0,
+                    165215
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DLY",
+                "_score": null,
+                "_source": {
+                    "doc_count": 123738,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DLY"
+                },
+                "sort": [
+                    0,
+                    123738
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DAT_S",
+                "_score": null,
+                "_source": {
+                    "doc_count": 111974,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DAT_S"
+                },
+                "sort": [
+                    0,
+                    111974
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DHF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 81568,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DHF"
+                },
+                "sort": [
+                    0,
+                    81568
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "00",
+                "_score": null,
+                "_source": {
+                    "doc_count": 56167,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "00"
+                },
+                "sort": [
+                    0,
+                    56167
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "GFZ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 50019,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "GFZ"
+                },
+                "sort": [
+                    0,
+                    50019
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "HTS",
+                "_score": null,
+                "_source": {
+                    "doc_count": 36607,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "HTS"
+                },
+                "sort": [
+                    0,
+                    36607
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "[5]SUMMARYINFORMATION",
+                "_score": null,
+                "_source": {
+                    "doc_count": 32166,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "[5]SUMMARYINFORMATION"
+                },
+                "sort": [
+                    0,
+                    32166
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "[5]DOCUMENTSUMMARYINFORMATION",
+                "_score": null,
+                "_source": {
+                    "doc_count": 32165,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "[5]DOCUMENTSUMMARYINFORMATION"
+                },
+                "sort": [
+                    0,
+                    32165
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "WORKBOOK",
+                "_score": null,
+                "_source": {
+                    "doc_count": 31939,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "WORKBOOK"
+                },
+                "sort": [
+                    0,
+                    31939
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "NASA",
+                "_score": null,
+                "_source": {
+                    "doc_count": 30996,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "NASA"
+                },
+                "sort": [
+                    0,
+                    30996
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "TFW",
+                "_score": null,
+                "_source": {
+                    "doc_count": 29216,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "TFW"
+                },
+                "sort": [
+                    0,
+                    29216
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "CRN",
+                "_score": null,
+                "_source": {
+                    "doc_count": 27729,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "CRN"
+                },
+                "sort": [
+                    0,
+                    27729
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "CNES",
+                "_score": null,
+                "_source": {
+                    "doc_count": 26789,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "CNES"
+                },
+                "sort": [
+                    0,
+                    26789
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RWL",
+                "_score": null,
+                "_source": {
+                    "doc_count": 26359,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RWL"
+                },
+                "sort": [
+                    0,
+                    26359
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "LOG",
+                "_score": null,
+                "_source": {
+                    "doc_count": 24347,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "LOG"
+                },
+                "sort": [
+                    0,
+                    24347
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DIR",
+                "_score": null,
+                "_source": {
+                    "doc_count": 24138,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DIR"
+                },
+                "sort": [
+                    0,
+                    24138
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "ASC",
+                "_score": null,
+                "_source": {
+                    "doc_count": 24110,
+                    "conversions_count": 0,
+                    "extractors_count": 1,
+                    "mimetype": "text/plain",
+                    "key": "ASC"
+                },
+                "sort": [
+                    0,
+                    24110
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SGF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 22839,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-go-sgf",
+                    "key": "SGF"
+                },
+                "sort": [
+                    0,
+                    22839
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "2005-1YR",
+                "_score": null,
+                "_source": {
+                    "doc_count": 22316,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "2005-1YR"
+                },
+                "sort": [
+                    0,
+                    22316
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "ADF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 21061,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "ADF"
+                },
+                "sort": [
+                    0,
+                    21061
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "UF2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 18405,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "UF2"
+                },
+                "sort": [
+                    0,
+                    18405
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "NH2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 17100,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "NH2"
+                },
+                "sort": [
+                    0,
+                    17100
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "STATUS",
+                "_score": null,
+                "_source": {
+                    "doc_count": 17054,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "STATUS"
+                },
+                "sort": [
+                    0,
+                    17054
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "[1]COMPOBJ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 16918,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "[1]COMPOBJ"
+                },
+                "sort": [
+                    0,
+                    16918
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "PROJECT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15822,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "PROJECT"
+                },
+                "sort": [
+                    0,
+                    15822
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "_VBA_PROJECT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15819,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "_VBA_PROJECT"
+                },
+                "sort": [
+                    0,
+                    15819
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "PROJECTWM",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15819,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "PROJECTWM"
+                },
+                "sort": [
+                    0,
+                    15819
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "THISWORKBOOK",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15816,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "THISWORKBOOK"
+                },
+                "sort": [
+                    0,
+                    15816
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SF2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15682,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SF2"
+                },
+                "sort": [
+                    0,
+                    15682
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "NPT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 15253,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "NPT"
+                },
+                "sort": [
+                    0,
+                    15253
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SUM",
+                "_score": null,
+                "_source": {
+                    "doc_count": 13878,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SUM"
+                },
+                "sort": [
+                    0,
+                    13878
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "WX",
+                "_score": null,
+                "_source": {
+                    "doc_count": 13765,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "WX"
+                },
+                "sort": [
+                    0,
+                    13765
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "CB",
+                "_score": null,
+                "_source": {
+                    "doc_count": 13596,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "CB"
+                },
+                "sort": [
+                    0,
+                    13596
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "HSF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 12870,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "HSF"
+                },
+                "sort": [
+                    0,
+                    12870
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "UTX",
+                "_score": null,
+                "_source": {
+                    "doc_count": 11245,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "UTX"
+                },
+                "sort": [
+                    0,
+                    11245
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "KMZ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 11121,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/vnd.google-earth.kmz",
+                    "key": "KMZ"
+                },
+                "sort": [
+                    0,
+                    11121
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "001",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10621,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "001"
+                },
+                "sort": [
+                    0,
+                    10621
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SHEET1",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10537,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SHEET1"
+                },
+                "sort": [
+                    0,
+                    10537
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_0",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10150,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_0"
+                },
+                "sort": [
+                    0,
+                    10150
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_1",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10150,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_1"
+                },
+                "sort": [
+                    0,
+                    10150
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "E00",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10078,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "E00"
+                },
+                "sort": [
+                    0,
+                    10078
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10056,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_2"
+                },
+                "sort": [
+                    0,
+                    10056
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_3",
+                "_score": null,
+                "_source": {
+                    "doc_count": 10056,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_3"
+                },
+                "sort": [
+                    0,
+                    10056
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT1",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT1"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTA",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTA"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTC",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTC"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT2"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTZ",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTZ"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTI",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTI"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTP",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTP"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTR",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTR"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTS",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9889,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTS"
+                },
+                "sort": [
+                    0,
+                    9889
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RTH",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9887,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RTH"
+                },
+                "sort": [
+                    0,
+                    9887
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT7",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9887,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT7"
+                },
+                "sort": [
+                    0,
+                    9887
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT5",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9878,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT5"
+                },
+                "sort": [
+                    0,
+                    9878
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT4",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9863,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT4"
+                },
+                "sort": [
+                    0,
+                    9863
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT8",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9859,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT8"
+                },
+                "sort": [
+                    0,
+                    9859
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT6",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9761,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT6"
+                },
+                "sort": [
+                    0,
+                    9761
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "COD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9704,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/vnd.rim.cod",
+                    "key": "COD"
+                },
+                "sort": [
+                    0,
+                    9704
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "HTSI",
+                "_score": null,
+                "_source": {
+                    "doc_count": 9375,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "HTSI"
+                },
+                "sort": [
+                    0,
+                    9375
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "FRD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 8899,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "FRD"
+                },
+                "sort": [
+                    0,
+                    8899
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SHEET2",
+                "_score": null,
+                "_source": {
+                    "doc_count": 8281,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SHEET2"
+                },
+                "sort": [
+                    0,
+                    8281
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SHEET3",
+                "_score": null,
+                "_source": {
+                    "doc_count": 8104,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SHEET3"
+                },
+                "sort": [
+                    0,
+                    8104
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "TMP",
+                "_score": null,
+                "_source": {
+                    "doc_count": 8085,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "TMP"
+                },
+                "sort": [
+                    0,
+                    8085
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "NIT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 8073,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "NIT"
+                },
+                "sort": [
+                    0,
+                    8073
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DDF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 7600,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DDF"
+                },
+                "sort": [
+                    0,
+                    7600
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_4",
+                "_score": null,
+                "_source": {
+                    "doc_count": 7168,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_4"
+                },
+                "sort": [
+                    0,
+                    7168
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_5",
+                "_score": null,
+                "_source": {
+                    "doc_count": 7167,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_5"
+                },
+                "sort": [
+                    0,
+                    7167
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "HDFEOS",
+                "_score": null,
+                "_source": {
+                    "doc_count": 7151,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "HDFEOS"
+                },
+                "sort": [
+                    0,
+                    7151
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "ESA",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6954,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "ESA"
+                },
+                "sort": [
+                    0,
+                    6954
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT3",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6595,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT3"
+                },
+                "sort": [
+                    0,
+                    6595
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "OLD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6512,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-trash",
+                    "key": "OLD"
+                },
+                "sort": [
+                    0,
+                    6512
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_6",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6502,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_6"
+                },
+                "sort": [
+                    0,
+                    6502
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "__SRP_7",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6502,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "__SRP_7"
+                },
+                "sort": [
+                    0,
+                    6502
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SKD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 6029,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-koan",
+                    "key": "SKD"
+                },
+                "sort": [
+                    0,
+                    6029
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "LIST",
+                "_score": null,
+                "_source": {
+                    "doc_count": 5332,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "LIST"
+                },
+                "sort": [
+                    0,
+                    5332
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "FLT",
+                "_score": null,
+                "_source": {
+                    "doc_count": 5161,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "FLT"
+                },
+                "sort": [
+                    0,
+                    5161
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "AUX",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4664,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "AUX"
+                },
+                "sort": [
+                    0,
+                    4664
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RRD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4414,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RRD"
+                },
+                "sort": [
+                    0,
+                    4414
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "SVN-BASE",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4199,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "SVN-BASE"
+                },
+                "sort": [
+                    0,
+                    4199
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "@@@-MVF-@@@",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4156,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "@@@-MVF-@@@"
+                },
+                "sort": [
+                    0,
+                    4156
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "11",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4130,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "11"
+                },
+                "sort": [
+                    0,
+                    4130
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "LOD",
+                "_score": null,
+                "_source": {
+                    "doc_count": 4075,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "LOD"
+                },
+                "sort": [
+                    0,
+                    4075
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "DEF",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3753,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "DEF"
+                },
+                "sort": [
+                    0,
+                    3753
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "JAX",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3716,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "JAX"
+                },
+                "sort": [
+                    0,
+                    3716
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "RT9",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3680,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "RT9"
+                },
+                "sort": [
+                    0,
+                    3680
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "EXE",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3668,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "application/x-msdos-program",
+                    "key": "EXE"
+                },
+                "sort": [
+                    0,
+                    3668
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "12",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3614,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "12"
+                },
+                "sort": [
+                    0,
+                    3614
+                ]
+            },
+            {
+                "_index": "ciber-file-extensions",
+                "_type": "extension",
+                "_id": "NRL",
+                "_score": null,
+                "_source": {
+                    "doc_count": 3485,
+                    "conversions_count": 0,
+                    "extractors_count": 0,
+                    "mimetype": "None",
+                    "key": "NRL"
+                },
+                "sort": [
+                    0,
+                    3485
+                ]
+            }
+        ]
+    }
+}
